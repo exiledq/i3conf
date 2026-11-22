@@ -1,11 +1,7 @@
 # i3conf
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6a8299ca-9e0f-47e3-b65b-96e2811e0f52" />
-[neofetch, cmatrix, cbonsai, cava]
 
-my personal linux rice built around i3wm.  
-no bloated desktop environment nonsense.
-
-## 🧱 setup
+## setup
 
 - **wm:** i3
 - **compositor:** picom
@@ -15,7 +11,7 @@ no bloated desktop environment nonsense.
 
 ---
 
-## 📂 structure
+## structure
 ```
 ~/i3conf/
 ├── i3 (i3 window manager config)
@@ -25,12 +21,23 @@ no bloated desktop environment nonsense.
 └── kitty.conf (kitty terminal config)
 ```
 
-## 🔨 needed packages (automatically installed during install script)
+## needed packages
 ```
-sudo pacman -S --needed git fish kitty i3 polybar feh rofi picom autotiling maim slop xclip
+git
+fish
+kitty
+i3
+polybar
+feh
+rofi
+picom
+autotiling
+maim
+slop
+xclip
 ```
 
-## ⚙️ installation
+## installation
 
 clone the repo and simply run the install script
 
