@@ -1,3 +1,5 @@
+**i probably wont update this in a while, so it will probably be broken**
+
 # i3conf
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6a8299ca-9e0f-47e3-b65b-96e2811e0f52" />
 
